@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Anuar
+### I'm Anuar
 #### Front End Developer | UI/UX Designer
 I love turning UI/UX designs into fully functional beautiful websites.
 
-### Skills: 
-JavaScript | ReactJS | HTML | CSS | Sass/SCSS | Node | npm
+#### Skills: 
+**JavaScript** | **ReactJS** | **HTML** | **CSS** | **Sass/SCSS** | **Node** | **npm**
 
 
 
