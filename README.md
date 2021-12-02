@@ -12,5 +12,3 @@ JavaScript | ReactJS | HTML | CSS | Sass/SCSS | Node | npm
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuarshaidenov&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/anuarshaidenov)  
-
-![Profile views](https://gpvc.arturio.dev/anuarshaidenov)  
