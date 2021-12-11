@@ -1,4 +1,4 @@
-![header](./gh-header.svg)
+<img src="./gh-header.svg" alt="Header image" style="width: 100%"/>
 
 I am a graduate with a computer engineering degree passionate about Front End technologies such as **React**, **JavaScript**, **HTML/CSS** and UI/UX Design with **Figma**. I specialize in working with components (BEM, modules) which allows me to write clean and maintainable code. I have experience of 3+ years of working with these technologies and I keep learning every day. From time to time I like sharing my knowledge in a blog where I write about technologies that I’m working with. 
 
