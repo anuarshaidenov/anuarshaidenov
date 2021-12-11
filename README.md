@@ -11,3 +11,7 @@ I am a graduate with a computer engineering degree passionate about Front End te
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuarshaidenov&show_icons=false&theme=dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/anuarshaidenov)  
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=anuarshaidenov&show_icons=false&theme=dark" alt="Header image" style="width: 100%"/>
+<img src="https://metrics.lecoq.io/anuarshaidenov" alt="Header image" style="width: 100%"/>
