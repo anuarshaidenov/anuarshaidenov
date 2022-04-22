@@ -4,6 +4,7 @@ I am a graduate with a computer engineering degree passionate about Front End te
 
 ### Skills: 
 **NextJS** | **ReactJS** | **JavaScript** | **HTML** | **CSS** | **TailwindCSS** | **Sass/SCSS** | **Node** | **npm**
+</br>
 **Ruby** | **Ruby On Rails** | **PostgreSQL** | **RESTful APIs** |
 
 
