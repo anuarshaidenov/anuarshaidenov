@@ -1,6 +1,7 @@
-<img src="./gh-header.svg" alt="Header image" style="width: 100%"/>
+I’m a Frontend Developer with a Bachelor’s Degree in Computer Engineering. Graduated from Microverse Bootcamp and mastered my skills as a Full-Stack Web Developer, while working remotely with 20+ coding partners on 50+ projects of different complexity.
 
-I am a graduate with a computer engineering degree passionate about Front End technologies such as **React**, **JavaScript**, **HTML/CSS** and UI/UX Design with **Figma**. I specialize in working with components (BEM, modules) which allows me to write clean and maintainable code. I have experience of 3+ years of working with these technologies and I keep learning every day. From time to time I like sharing my knowledge in a blog where I write about technologies that I’m working with. Currently studying at Microverse - bootcamp for web developers.
+Helped multiple startups boost their business, and develop scalable, and efficient MVPs.
+Passionate about working with components, UI, and UX. Love writing maintainable code, that allows me to keep my projects modular and clean, while also opening opportunities to scale the projects as the complexity grows. I am passionate about following design fundamentals since I believe that user interface and user experience are some of the most important things about an application. 
 
 ### Skills: 
 **NextJS** | **ReactJS** | **JavaScript** | **HTML** | **CSS** | **TailwindCSS** | **Sass/SCSS** | **Node** | **npm**
