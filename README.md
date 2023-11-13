@@ -1,9 +1,9 @@
-I’m a Frontend Developer with a Bachelor’s Degree in Computer Engineering. Graduated from Microverse Bootcamp and mastered my skills as a Full-Stack Web Developer, while working remotely with 20+ coding partners on 50+ projects of different complexity.
+I’m a Frontend Developer with a Bachelor’s Degree in Computer Engineering. Mastered my skills as a Full-Stack Web Developer, working with multiple different startups.
 
-Helped multiple startups boost their business, and develop scalable, and efficient MVPs.
+Throughout my career, I've helped companies boost their business, and develop scalable, and efficient MVPs from ground-up.
 Passionate about working with components, UI, and UX. Love writing maintainable code, that allows me to keep my projects modular and clean, while also opening opportunities to scale the projects as the complexity grows. I am passionate about following design fundamentals since I believe that user interface and user experience are some of the most important things about an application. 
 
-### Skills: 
+### Some of my skills include: 
 **NextJS** | **ReactJS** | **JavaScript** | **HTML** | **CSS** | **TailwindCSS** | **Sass/SCSS** | **Node** | **npm**
 </br>
 **Ruby** | **Ruby On Rails** | **PostgreSQL** | **RESTful APIs** |
