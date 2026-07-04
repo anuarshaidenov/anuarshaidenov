@@ -1,6 +1,6 @@
 design engineering is my passion
 
-running a software studio with my little brother [shy studio](https://shystud.io/) building some cool projects:
+running a software studio [shy studio](https://shystud.io/) building some cool projects:
 - [däpter](https://dapter.shystud.io/)
 - [cushn](https://dapter.shystud.io/)
 
